@@ -21,7 +21,7 @@ You can read how to use imgbeddings for real-world use cases in these Jupyter No
 aitextgen can be installed from PyPI:
 
 ```sh
-pip3 install imgbeddings
+pip3 install imgbeddings@git+https://github.com/drycrushader/imgbeddings
 ```
 
 ## Quick Example
